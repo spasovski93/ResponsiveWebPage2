@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-color: white;
+}
+
+.logo {
+    height: 60px;
+    padding: 2px 10px;
+    border-radius: 30px;
+
+}
+
+.col-lg-6 {
+    padding-top: 7rem;
+    padding-left: 1rem;
+}
+
+
+.explore-button {
+    margin: 20px;
+
+
+}
+
+.signup-button {
+    margin: 20px;
+
+}
+
+.container-btn {
+    text-align: center;
+    margin-top: 70px;
+
+}
+
+.navbar-nav {
+
+    padding: 2px 10px;
+}
+
+.navbar-toggler {
+    border: 1px solid white !important;
+
+    padding: 2px 10px !important;
+    background-color: white !important;
+
+}
+
+.hamburger-icon {
+
+    color: green;
+    font-size: 30px;
+
+}
+
+.nav-item {
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.text {
+    color: white;
+    opacity: 85%;
+    padding: 35px;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+
+
+}
+
+.intro {
+    color: white;
+    opacity: 85%;
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.img-fluid {
+    width: 900px;
+}
+
+.container-fluid {
+    background-color: rgb(1, 32, 10);
+    padding-bottom: 80px;
+
+
+}
+
+.text-center {
+    color: black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 145px;
+    text-align: center;
+    padding: 15px;
+
+}
+
+.outro {}
